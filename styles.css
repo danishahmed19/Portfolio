@@ -147,6 +147,7 @@ h1, h2, h3, h4, h5, h6 {
     border-bottom: 1px solid var(--color-light-gray);
     z-index: 1000;
     transition: all var(--transition-normal);
+     margin-bottom: 25px;
 }
 
 .nav-container {
@@ -908,4 +909,5 @@ h1, h2, h3, h4, h5, h6 {
     .skill-category {
         padding: var(--space-lg);
     }
+
 }
