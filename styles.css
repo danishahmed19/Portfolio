@@ -400,6 +400,7 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
     width: 350px;
     height: 350px;
+    margin-bottom: 20px;
 }
 
 .profile-image {
@@ -913,5 +914,6 @@ h1, h2, h3, h4, h5, h6 {
     }
 
 }
+
 
 
