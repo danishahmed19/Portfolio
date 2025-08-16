@@ -339,7 +339,7 @@ h1, h2, h3, h4, h5, h6 {
     grid-template-columns: 1fr 1fr;
     gap: var(--space-3xl);
     align-items: center;
-     margin-top: 200px;
+     margin-top: 150px;
 
 }
 
@@ -913,4 +913,5 @@ h1, h2, h3, h4, h5, h6 {
     }
 
 }
+
 
